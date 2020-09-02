@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.about__container {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.about__container p {
+    width: 35%;
+}
+
+.about__text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about__text p {
+    padding-left: 30px;
+}

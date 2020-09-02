@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+.intro__container{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 52px;
+}
+
+#span__forest {
+    color: #00b894;
+}
+
+@media only screen and (max-width: 600px) {
+    .intro__container {
+        font-size: 46px;
+    }
+  }
